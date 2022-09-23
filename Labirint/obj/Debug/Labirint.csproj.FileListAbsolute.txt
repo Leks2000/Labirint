@@ -1,0 +1,8 @@
+F:\repos\Labirint\bin\Debug\Labirint.exe.config
+F:\repos\Labirint\bin\Debug\Labirint.exe
+F:\repos\Labirint\bin\Debug\Labirint.pdb
+F:\repos\Labirint\obj\Debug\Labirint.csproj.AssemblyReference.cache
+F:\repos\Labirint\obj\Debug\Labirint.csproj.SuggestedBindingRedirects.cache
+F:\repos\Labirint\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+F:\repos\Labirint\obj\Debug\Labirint.exe
+F:\repos\Labirint\obj\Debug\Labirint.pdb
